@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Java--Script--Starter-NL",
+			"path": "../../Java--Script--Starter-NL"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JavaScriptBasics-Q3-2022 nl"
+	}
+}
